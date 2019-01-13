@@ -26,6 +26,8 @@ hs_err_pid*
 #My gitignore
 */.settings
 */target
+*/.idea
+*.iml
 
 *.classpath
 *.project
